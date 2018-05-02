@@ -1,5 +1,8 @@
 # Node.js local library app
 
+![library website - mongoose_express](https://user-images.githubusercontent.com/20290257/39513233-c972ba16-4e47-11e8-9d89-b8a0ca83337c.png)
+
+
 ### `Install`
  
 Run 
