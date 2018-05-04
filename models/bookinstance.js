@@ -19,6 +19,7 @@ BookInstanceSchema
   return '/catalog/bookinstance/' + this._id;
 });
 
+// Virtual for bookinstance's formatted due_back
 BookInstanceSchema
 .virtual('due_back_formatted')
 .get(function () {
